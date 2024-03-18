@@ -1,4 +1,5 @@
 # Pattern Builder
+**Étudiant** NOM,Prénom,no_etud
 
 Dans cet exercice, vous implémenterez une classe `Book` représentant un livre.
 Pour cela, vous respecterez le design pattern [_Builder_](https://en.wikipedia.org/wiki/Builder_pattern).
@@ -10,4 +11,4 @@ On peut lui ajouter une année de publication, un auteur et d'autres chapitres.
 
 1. Faites le nécessaire pour que le programme compile (**tous les tests doivent échouer**).
 1. **Validez les chagement avec `git`.**
-1. Vous implémenterez **un à un** les tests unitaires fournis dans le fichier `BookTest.java` en prenant soin de valider après chaque réalisation.
+1. Vous implémenterez **un à un** les tests unitaires fournis dans le fichier `BookTest.java` en prenant soin de **valider après chaque réalisation**.
